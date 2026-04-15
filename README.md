@@ -37,3 +37,4 @@ npm run preview
    }
    ```
 2. `npm run deploy` — проєкт опублікується на `<користувач>.github.io/<repo>/`.
+"# pbnew" 
